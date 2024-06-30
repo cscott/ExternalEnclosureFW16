@@ -278,7 +278,7 @@
 	)
 	(model "/ExternalMount.3dshapes/USB-C-SMD_TYPE-C16PIN.wrl"
 		(offset
-			(xyz 0 -1.06 1)
+			(xyz 0 -2.4 0)
 		)
 		(scale
 			(xyz 1 1 1)

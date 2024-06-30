@@ -1,4 +1,4 @@
-23636316316720545
+23638036150102202
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56330,6 +56330,13 @@ LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL
 48
 ExternalMount
 Molex_0472861001
+
+
+0
+4
+4
+ExternalMount
+OSC-SMD_4P-L3.2-W2.5-BL
 
 
 0
