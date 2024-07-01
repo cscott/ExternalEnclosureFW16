@@ -33,7 +33,7 @@ This has been designed for PCBA by JLCPCB, and appropriate LCSC parts
 numbers are included in the kicad files.  Hand soldering the molex
 input module connectors may be required, as JLC does not tend to keep
 these in stock -- although you can special order them, you might
-find it easier to [obtain them from DigiKey](https://www.digikey.com/en/products/detail/keystone-electronics/24929/16343672)
+find it easier to [obtain them from DigiKey](https://www.digikey.com/en/products/detail/molex/0472861001/4553726)
 and hand-solder them (or use a hot plate).
 
 Use a 0.8mm PCB.  The needed files for JLCPCB fabrication are in
@@ -61,3 +61,5 @@ tall enough.
 There are cutouts for 3mm x 1.5mm cylindrical magnets on the front face
 and on the lid to secure the lid.  Ensure the polarities are appropriate
 such that the lid is attracted to the body of the enclosure!
+
+![image](side-view.png)
