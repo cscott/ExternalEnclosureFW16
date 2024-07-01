@@ -1,4 +1,4 @@
-23638036150102202
+23639756194565069
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56321,6 +56321,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ExternalMount
+JLCPCB Tooling Hole
+Mounting Hole 3.7mm
+mounting hole 3.7mm
+0
+0
+0
 ExternalMount
 LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL
 

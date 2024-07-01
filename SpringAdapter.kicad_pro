@@ -64,6 +64,7 @@
         "courtyards_overlap|126834574|104514005|3527498c-74ab-4576-a96c-a4446a1c937e|9cb57290-efe2-4df6-886e-b8bb10656a5d",
         "courtyards_overlap|139172570|104508010|01aa5ff1-6c1c-4830-9c16-8afe02a32de3|8d9bfc15-9e31-44e4-b1e1-0eaa681f29f4",
         "courtyards_overlap|160834574|104514005|be465efb-32bf-4ce7-87e9-73fb5d5464ac|c00968ce-4472-4d78-a49c-ecdfe0f5c60c",
+        "courtyards_overlap|165530937|102049193|2d0420ae-e069-442a-9643-cdc6602e56c2|c00968ce-4472-4d78-a49c-ecdfe0f5c60c",
         "footprint_type_mismatch|89200000|93900000|57aff33c-87d5-479f-9596-b847f0fa739c|00000000-0000-0000-0000-000000000000",
         "silk_edge_clearance|85000000|89450000|13061f68-8b77-42c9-a49d-efd15444ecbe|141a6175-d3f7-48e5-8d69-3668a96a9ca2",
         "silk_edge_clearance|85000000|98350000|13061f68-8b77-42c9-a49d-efd15444ecbe|a2758284-173f-4eb5-a9a1-6125f608a057"
@@ -614,6 +615,36 @@
           "label": "LCSC Part",
           "name": "LCSC Part",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB Rotation Offset",
+          "name": "JLCPCB Rotation Offset",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Alt",
+          "name": "LCSC Alt",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB Position Offset",
+          "name": "JLCPCB Position Offset",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Digikey",
+          "name": "Digikey",
+          "show": false
         }
       ],
       "filter_string": "",
