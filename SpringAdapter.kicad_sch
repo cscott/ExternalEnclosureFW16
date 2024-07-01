@@ -2905,6 +2905,12 @@
 		(uuid "d7cf524d-6a28-45e0-85c7-c1e7f4f168ab")
 	)
 	(junction
+		(at 124.46 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dec9cd1a-0096-4771-a14e-86ac75e7cf14")
+	)
+	(junction
 		(at 36.83 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3090,7 +3096,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 30.48) (xy 113.03 34.29)
+			(xy 124.46 154.94) (xy 124.46 158.75)
 		)
 		(stroke
 			(width 0)
@@ -3567,16 +3573,6 @@
 			(type default)
 		)
 		(uuid "48618e20-9714-40bd-908a-fb41f1ad815a")
-	)
-	(wire
-		(pts
-			(xy 92.71 34.29) (xy 113.03 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49066a1e-036f-4a78-a1e9-6045959f240d")
 	)
 	(wire
 		(pts
@@ -4540,7 +4536,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 20.32) (xy 113.03 22.86)
+			(xy 124.46 144.78) (xy 124.46 147.32)
 		)
 		(stroke
 			(width 0)
@@ -5173,7 +5169,7 @@
 		)
 		(uuid "bd395908-d0f6-408a-9587-39fafdbf0245")
 	)
-	(text "Each Input Module can draw 500mA on 5V rail and 100mA on 3.3V rail.\nWe ask for 1.5A on 5V via USB-C and can supply 1A on 3.3V."
+	(text "Each Input Module can draw 500mA on 5V rail and 100mA on 3.3V rail.\nWe ask for 1.5A on 5V via USB-C and can supply 200mA on 3.3V."
 		(exclude_from_sim no)
 		(at 212.09 86.106 0)
 		(effects
@@ -5182,6 +5178,16 @@
 			)
 		)
 		(uuid "ef6a5f72-8716-4b9a-a908-df0818a2cce5")
+	)
+	(text "For a lower-cost version that only supports the lefthand Input Module\nConnector (#1), all the components in this block and the Input Module\nConnector 2 block can be omitted, and R3/R4/R5 should be populated."
+		(exclude_from_sim no)
+		(at 76.708 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f0135e32-78ec-4ac8-afd2-554526dd0154")
 	)
 	(text "1"
 		(exclude_from_sim no)
@@ -5291,17 +5297,6 @@
 			(justify right bottom)
 		)
 		(uuid "3fcafcf8-f850-451c-b1a6-17bd84a70fb8")
-	)
-	(label "~{SLEEP}"
-		(at 93.98 34.29 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "489f32bc-c9be-4347-820b-8eea56c2a2c3")
 	)
 	(label "USB_DP1"
 		(at 43.18 153.67 0)
@@ -10353,7 +10348,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 113.03 20.32 0)
+		(at 124.46 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10362,7 +10357,7 @@
 		(fields_autoplaced yes)
 		(uuid "bc061d15-b5b3-4954-ac54-4e8ffe99e5bb")
 		(property "Reference" "#PWR03"
-			(at 113.03 24.13 0)
+			(at 124.46 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10371,7 +10366,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 113.03 15.24 0)
+			(at 124.46 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10379,7 +10374,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 113.03 20.32 0)
+			(at 124.46 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10388,7 +10383,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 20.32 0)
+			(at 124.46 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10397,7 +10392,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 113.03 20.32 0)
+			(at 124.46 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11927,7 +11922,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 113.03 26.67 0)
+		(at 124.46 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11935,7 +11930,7 @@
 		(dnp yes)
 		(uuid "f5e29601-24a7-48e0-9e25-a6ceffb1c95a")
 		(property "Reference" "R3"
-			(at 115.57 25.4 0)
+			(at 127 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11944,7 +11939,7 @@
 			)
 		)
 		(property "Value" "5.1k"
-			(at 115.57 27.94 0)
+			(at 127 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11953,7 +11948,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 114.046 26.924 90)
+			(at 125.476 151.384 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11962,7 +11957,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.03 26.67 0)
+			(at 124.46 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11971,7 +11966,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 113.03 26.67 0)
+			(at 124.46 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11980,7 +11975,7 @@
 			)
 		)
 		(property "LCSC Part" "C25905"
-			(at 113.03 26.67 0)
+			(at 124.46 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
