@@ -15,6 +15,9 @@ as indicated on the [schematic](./SpringAdapter.pdf).
 
 ![image](pcb.png)
 
+Further discussion can be found on the Framework Community forums at
+https://community.frame.work/t/external-usb-c-enclosure-for-input-modules/53695
+
 ## License
 Input Modules © 2023 by Framework Computer Inc is licensed under CC BY 4.0.
 
