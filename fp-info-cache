@@ -1,4 +1,4 @@
-23639756194565069
+23653519286677315
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56329,6 +56329,20 @@ mounting hole 3.7mm
 0
 0
 ExternalMount
+LED0603-RD-YELLOW
+
+
+0
+2
+2
+ExternalMount
+LED0805-R-RD
+
+
+0
+2
+2
+ExternalMount
 LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL
 
 
@@ -56343,12 +56357,26 @@ Molex_0472861001
 4
 4
 ExternalMount
+MountingHole_5mm_no_keepout
+Mounting Hole 5mm, no annular
+mounting hole 5mm no annular
+0
+0
+0
+ExternalMount
 OSC-SMD_4P-L3.2-W2.5-BL
 
 
 0
 4
 4
+ExternalMount
+QFN-20_L3.0-W3.0-P0.40-TL-EP1.7
+
+
+0
+21
+21
 ExternalMount
 QFN-28_L5.0-W5.0-P0.50-BL-EP
 
@@ -56357,12 +56385,40 @@ QFN-28_L5.0-W5.0-P0.50-BL-EP
 29
 29
 ExternalMount
+SMB_L4.6-W3.6-LS5.3-BI
+
+
+0
+2
+2
+ExternalMount
+SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR
+
+
+0
+3
+3
+ExternalMount
+SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL
+
+
+0
+5
+5
+ExternalMount
 SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR
 
 
 0
 4
 4
+ExternalMount
+SOT-666-6_L1.6-W1.2-P0.50-LS1.6-BL
+
+
+0
+6
+6
 ExternalMount
 TESTPOINT-SMD_KH-PG2012005-DZ
 

@@ -10,7 +10,7 @@ I am using a pair of alternate connectors from Molex which are compatible.
 The PCB incorporates a 4-port USB 2.0 hub, so that both input module
 slots can be active.  If you only need the leftmost input module connector
 to be functional (because you only want to use a medium-size Input Module,
-for example), then you can omit many of the components and populate R3/R4/R5
+for example), then you can omit many of the components and populate R4/R7/R8
 as indicated on the [schematic](./SpringAdapter.pdf).
 
 ![image](pcb.png)
