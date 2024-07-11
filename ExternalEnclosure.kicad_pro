@@ -464,7 +464,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ExternalMount.kicad_pro",
+    "filename": "ExternalEnclosure.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -502,9 +502,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "ExternalMount.step",
+      "step": "ExternalEnclosure.step",
       "svg": "",
-      "vrml": "ExternalMount.wrl"
+      "vrml": "ExternalEnclosure.wrl"
     },
     "page_layout_descr_file": ""
   },
