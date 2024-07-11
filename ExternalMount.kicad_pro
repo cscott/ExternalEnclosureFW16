@@ -464,7 +464,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SpringAdapter.kicad_pro",
+    "filename": "ExternalMount.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -502,9 +502,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "SpringAdapter.step",
+      "step": "ExternalMount.step",
       "svg": "",
-      "vrml": "SpringAdapter.wrl"
+      "vrml": "ExternalMount.wrl"
     },
     "page_layout_descr_file": ""
   },
