@@ -4119,6 +4119,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Rotation Offset" "180"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6db760f-ece7-4410-94a5-8ac039eb246a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7cf1006a-c3d2-422b-8b61-118f451dff9e")
 		(sheetname "Root")
 		(sheetfile "SpringAdapter.kicad_sch")
@@ -5357,6 +5370,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b17fb667-1e9e-4da6-bda1-f939f1457b5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Rotation Offset" "180"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d79c9af-ec28-4827-a5a1-a4cf85f0e4a1")
 			(effects
 				(font
 					(size 1 1)
@@ -10554,6 +10580,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3fb039be-6df3-434a-bd15-c9db6e80e2a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Rotation Offset" "-90"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d117835-34ea-42c6-8f13-fe451e8ac00b")
 			(effects
 				(font
 					(size 1 1)
