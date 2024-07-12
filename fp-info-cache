@@ -1,4 +1,4 @@
-23653519286677315
+23686229869332377
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56322,6 +56322,20 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 ExternalMount
+ABTBA018_2x4_P1.6mm
+LOTES spring board to board connector, 2x4
+spring connector
+0
+8
+8
+ExternalMount
+BP33242_2x4_P2.0mm
+CFE pogo pin board to board connector, 2x4
+CFE pogo
+0
+8
+8
+ExternalMount
 JLCPCB Tooling Hole
 Mounting Hole 3.7mm
 mounting hole 3.7mm
@@ -89326,6 +89340,125 @@ CFE pogo
 0
 8
 8
+SpringAdapter
+JLCPCB Tooling Hole
+Mounting Hole 3.7mm
+mounting hole 3.7mm
+0
+0
+0
+SpringAdapter
+LED0603-RD-YELLOW
+
+
+0
+2
+2
+SpringAdapter
+LED0805-R-RD
+
+
+0
+2
+2
+SpringAdapter
+LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL
+
+
+0
+48
+48
+SpringAdapter
+Molex_0472861001
+
+
+0
+4
+4
+SpringAdapter
+MountingHole_5mm_no_keepout
+Mounting Hole 5mm, no annular
+mounting hole 5mm no annular
+0
+0
+0
+SpringAdapter
+OSC-SMD_4P-L3.2-W2.5-BL
+
+
+0
+4
+4
+SpringAdapter
+QFN-20_L3.0-W3.0-P0.40-TL-EP1.7
+
+
+0
+21
+21
+SpringAdapter
+QFN-28_L5.0-W5.0-P0.50-BL-EP
+
+
+0
+29
+29
+SpringAdapter
+SMB_L4.6-W3.6-LS5.3-BI
+
+
+0
+2
+2
+SpringAdapter
+SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR
+
+
+0
+3
+3
+SpringAdapter
+SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL
+
+
+0
+5
+5
+SpringAdapter
+SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR
+
+
+0
+4
+4
+SpringAdapter
+SOT-666-6_L1.6-W1.2-P0.50-LS1.6-BL
+
+
+0
+6
+6
+SpringAdapter
+TESTPOINT-SMD_KH-PG2012005-DZ
+
+
+0
+1
+1
+SpringAdapter
+USB-C-SMD_TYPE-C16PIN
+
+
+0
+18
+16
+SpringAdapter
+WQFN-24_L4.0-W4.0-P0.50-TL-EP2.7
+
+
+0
+25
+25
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
