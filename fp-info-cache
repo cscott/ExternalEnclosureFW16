@@ -1,4 +1,4 @@
-23686229869332377
+23689680786224259
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56378,6 +56378,13 @@ mounting hole 5mm no annular
 0
 0
 ExternalMount
+MountingHole_5mm_slot_no_keepout
+Mounting Hole 5mm, no annular
+mounting hole 5mm no annular
+0
+0
+0
+ExternalMount
 OSC-SMD_4P-L3.2-W2.5-BL
 
 
@@ -89377,6 +89384,13 @@ Molex_0472861001
 4
 SpringAdapter
 MountingHole_5mm_no_keepout
+Mounting Hole 5mm, no annular
+mounting hole 5mm no annular
+0
+0
+0
+SpringAdapter
+MountingHole_5mm_slot_no_keepout
 Mounting Hole 5mm, no annular
 mounting hole 5mm no annular
 0

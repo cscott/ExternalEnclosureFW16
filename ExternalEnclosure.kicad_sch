@@ -14280,7 +14280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ExternalMount:MountingHole_5mm_no_keepout"
+		(property "Footprint" "ExternalMount:MountingHole_5mm_slot_no_keepout"
 			(at 330.2 44.45 0)
 			(effects
 				(font
@@ -16242,7 +16242,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ExternalMount:MountingHole_5mm_no_keepout"
+		(property "Footprint" "ExternalMount:MountingHole_5mm_slot_no_keepout"
 			(at 330.2 134.62 0)
 			(effects
 				(font
@@ -20005,7 +20005,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ExternalMount:MountingHole_5mm_no_keepout"
+		(property "Footprint" "ExternalMount:MountingHole_5mm_slot_no_keepout"
 			(at 330.2 39.37 0)
 			(effects
 				(font
@@ -20885,7 +20885,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ExternalMount:MountingHole_5mm_no_keepout"
+		(property "Footprint" "ExternalMount:MountingHole_5mm_slot_no_keepout"
 			(at 330.2 129.54 0)
 			(effects
 				(font
